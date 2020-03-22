@@ -10,6 +10,9 @@ import org.springframework.stereotype.Component;
 
 import java.util.Map;
 
+/**
+ * sdasdas
+ */
 @Component
 public class OrderReceiver {
 
