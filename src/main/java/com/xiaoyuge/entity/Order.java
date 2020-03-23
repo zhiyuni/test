@@ -1,7 +1,9 @@
 package com.xiaoyuge.entity;
 
 /**
- * order
+ * order  PPP
  */
 public class Order {
+    private String id;
+    private String username;
 }
